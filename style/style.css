@@ -183,7 +183,7 @@ main{
     height:300px;
 
     background-color: #111;
-    opacity:0.5;
+    opacity:0.95;  
 
     overflow-y:scroll;
 }
